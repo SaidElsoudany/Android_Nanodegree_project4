@@ -1,1 +1,1 @@
-"# Android_Nanodegree_project4" 
+This submission for project 3 in the Advanced Android Kotlin Development Nanodegree Program
