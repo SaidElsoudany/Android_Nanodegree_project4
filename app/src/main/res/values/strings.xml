@@ -42,7 +42,7 @@
     <string name="error_adding_geofence">Error Happened, Can\'t Add Geofence</string>
     <string name="privacy_text">By continuing, you are indicating that you accept our terms of service and privacy policy</string>
     <string name="user_location_cant_be_shown">User location can\'t be shown</string>
-    <string name="cant_save_reminder">Can\'t save reminder because background location is denied</string>
+    <string name="cant_save_reminder">Can\'t save reminder because location permoission is denied</string>
     <string name="bg_location_dialog_rationale_msg">Application need allow all the time location (Background location) permission to notify user when it get to the required location</string>
     <string name="accept">Accept</string>
     <string name="deny">Deny</string>
